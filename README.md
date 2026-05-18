@@ -1,4 +1,4 @@
-# Number guessing game.py
+# Number guessing game
 Python based game using built-in libraries (tkinter and random). If the guess hints are out of the interface then you fail to guess and YOU LOSE, otherwise YOU WON!
 
 # Usage
